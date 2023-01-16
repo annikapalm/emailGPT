@@ -34,9 +34,9 @@ with st.sidebar:
         "[About ChatGPT](https://openai.com/blog/chatgpt/)", unsafe_allow_html=True
     )
     st.markdown(
-        "[This app on GitHub](https://github.com/lucasmccabe/emailGPT)",
+        "[This app on GitHub](https://github.com/annikapalm/emailGPT)",
         unsafe_allow_html=True,
     )
     st.markdown(
-        "[Lucas H. McCabe](https://lucasmccabe.github.io/)", unsafe_allow_html=True
+        "[Lucas H. McCabe](https://annikapalm.github.io/)", unsafe_allow_html=True
     )
